@@ -14,7 +14,7 @@ Expected address after deployment: https://sslaughter.github.io/jessieswhims/
 2. Open index.html and click the pencil to edit it.
 3. Find ADD BOUQUETS HERE. Copy the <article> through </article> template and paste it outside the HTML comment, immediately before the template comment.
 4. Replace the bouquet name, image path, image description, date, recipe, verse, song, and idiom. Give each bouquet heading a unique id and use the same value in its article's aria-labelledby.
-5. Remove the empty-state div for your first bouquet. Put later bouquets above earlier ones.
+5. Put later bouquets above earlier ones.
 6. Commit the change. Once Pages finishes deploying, refresh the live site.
 
 You can add another image inside an article with another <img> tag. Add a song link with <a href="https://your-listening-link">Listen to the song</a>.
